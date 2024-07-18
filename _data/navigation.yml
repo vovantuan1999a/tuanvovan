@@ -1,17 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/tuanvanvo.github.io/#about-me"
+    url: "/tuanvovan/#about-me"
 
   - title: "News"
-    url: "/tuanvanvo.github.io/#news"
+    url: "/tuanvovan/#news"
 
   - title: "Publications"
-    url: "/tuanvanvo.github.io/#publications"
+    url: "/tuanvovan/#publications"
 
   - title: "Honors"
-    url: "/tuanvanvo.github.io/#honors"
-
-  - title: "Academic Service"
-    url: "/tuanvanvo.github.io/#academic-service"
-
+    url: "/tuanvovan/#honors"
