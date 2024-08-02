@@ -20,7 +20,7 @@
 <b>Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</b><br>
 <i>IEEE International Conference on Robotics and Automation (ICRA), 2024</i><br>
 <b>Tuan Van Vo</b>, Minh Nhat Vu, Baoru Huang, Toan Nguyen, Ngan Le, Thieu Vo, Anh Nguyen<br>
-[<a href="https://arxiv.org/pdf/2309.10932">arXiv</a>]
+[<a href="https://arxiv.org/abs/2309.10932">arXiv</a>]
 [<a href="https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation">Code</a>]<br>
 <div style="text-align: justify">
 
@@ -34,7 +34,7 @@
 <b>Language-driven Grasp Detection with Mask-guided Attention</b><br>
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</i><br>
 <b>Tuan Van Vo</b>, Minh Nhat Vu, Baoru Huang, An Vuong, Ngan Le, Thieu Vo, Anh Nguyen<br>
-[<a href="https://drive.google.com/file/d/14SgsuT9fJWZPQXJ26h_SmUmnDRdJJfm7/view?usp=sharing">PDF</a>]
+[<a href="https://arxiv.org/abs/2407.19877">arXiv</a>]
 [<a href="">Code (Coming Soon)</a>]<br>
 <div style="text-align: justify">
 
@@ -48,7 +48,7 @@
 <b>Language-Conditioned Affordance-Pose Detection in 3D Point Cloud</b><br>
 <i>IEEE International Conference on Robotics and Automation (ICRA), 2024</i><br>
 Toan Nguyen, Minh Nhat Vu, Baoru Huang, <b>Tuan Van Vo</b>, Vy Truong, Ngan Le, Thieu Vo, Bac Le, Anh Nguyen<br>
-[<a href="https://arxiv.org/pdf/2309.10911">arXiv</a>]
+[<a href="https://arxiv.org/abs/2309.10911">arXiv</a>]
 [<a href="https://github.com/Fsoft-AIC/Language-Conditioned-Affordance-Pose-Detection-in-3D-Point-Clouds">Code</a>]<br>
 <div style="text-align: justify">
 
