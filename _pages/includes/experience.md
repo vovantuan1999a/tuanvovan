@@ -36,6 +36,7 @@ Applied Scientist, Jun 2021 - May 2022.<br>
 
 </div>
 </div>
+</div>
 
 <div class='experience-box'><div class='experience-box-image'><div><a href="images/fpt_software.png"><img src='images/fpt_software.png' alt="sym" width="150%"></a></div></div>
 <div class='experience-box-text' markdown="1">
@@ -43,6 +44,7 @@ Applied Scientist, Jun 2021 - May 2022.<br>
 <b>FPT Software</b>, Vietnam.<br>
 AI Engineer, Jun 2020 - May 2021.<br>
 
+</div>
 </div>
 </div>
 
