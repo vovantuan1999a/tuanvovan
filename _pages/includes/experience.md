@@ -32,7 +32,7 @@ Computer Vision Research Engineer, Jun 2022 - Sep 2023.<br>
 <div class='experience-box-text' markdown="1">
 
 <b>VinBrain-Vingroup</b>, Vietnam.<br>
-Applied Scientis, Jun 2021 - May 2022.<br>
+Applied Scientist, Jun 2021 - May 2022.<br>
 
 </div>
 </div>
