@@ -28,7 +28,7 @@ Computer Vision Research Engineer, Jun 2022 - Sep 2023.<br>
 </div>
 </div>
 
-<div class='experience-box'><div class='experience-box-image'><div><a href="images/vinbrain.png"><img src='images/vinbrain.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/vinbrain.png"><img src='images/vinbrain.png' alt="sym" width="150%"></a></div></div>
 <div class='experience-box-text' markdown="1">
 
 <b>VinBrain-Vingroup</b>, Vietnam.<br>
@@ -37,7 +37,7 @@ Applied Scientist, Jun 2021 - May 2022.<br>
 </div>
 </div>
 
-<div class='experience-box'><div class='experience-box-image'><div><a href="images/fpt_software.png"><img src='images/fpt_software.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/fpt_software.png"><img src='images/fpt_software.png' alt="sym" width="150%"></a></div></div>
 <div class='experience-box-text' markdown="1">
 
 <b>FPT Software</b>, Vietnam.<br>
