@@ -23,7 +23,7 @@ AI Research Residency, Jun 2022 - Aug 2023.<br>
 <div class='experience-box-text' markdown="1">
 
 <b>MoMo-Mservice (a Vietnam's latest unicorn technology company)</b>, Vietnam.<br>
-Computer Vision Research Engineer, Jun 2022 - Sep 2023.<br>
+Computer Vision Research Engineer, Jun 2022 - Sep 2023.<br> <br><br>
 
 </div>
 </div>
@@ -32,9 +32,8 @@ Computer Vision Research Engineer, Jun 2022 - Sep 2023.<br>
 <div class='experience-box-text' markdown="1">
 
 <b>VinBrain-Vingroup</b>, Vietnam.<br>
-Applied Scientist, Jun 2021 - May 2022.<br>
+Applied Scientist, Jun 2021 - May 2022.<br><br><br>
 
-</div>
 </div>
 </div>
 
@@ -44,7 +43,6 @@ Applied Scientist, Jun 2021 - May 2022.<br>
 <b>FPT Software</b>, Vietnam.<br>
 AI Engineer, Jun 2020 - May 2021.<br>
 
-</div>
 </div>
 </div>
 
