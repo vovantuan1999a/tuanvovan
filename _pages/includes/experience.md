@@ -1,14 +1,24 @@
 
 # Experience
 
-<div class='experience-box'><div class='experience-box-image'><div><a href="images/netease_logo.png"><img src='images/netease_logo.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/SUTD.png"><img src='images/SUTD.png' alt="sym" width="100%"></a></div></div>
 <div class='experience-box-text' markdown="1">
 
-<b>Netease Fuxi AI Lab</b>, Hangzhou, China.<br>
-AI Researcher, Apr 2022 - Dec 2022.<br>
+<b>Singapore University of Technology and Design</b>, Singapore.<br>
+Researcher Assistant, Sep 2023 - Now.<br>
 
 </div>
 </div>
+
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/fpt.png"><img src='images/fpt.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box-text' markdown="1">
+
+<b>FPT Software AI Center</b>, Vietnam.<br>
+AI Research Residency, Jun 2022 - Aug 2023.<br>
+
+</div>
+</div>
+
 
 [//]: # (<div class='experience-box'><div class='experience-box-image'><div><a href="images/Ritsumeikan_University_logo.png"><img src='images/Ritsumeikan_University_logo.png' alt="sym" width="100%"></a></div></div>)
 
