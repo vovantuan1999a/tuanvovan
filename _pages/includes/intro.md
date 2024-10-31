@@ -2,8 +2,8 @@ I am currently a Research Assistant at the Singapore University of Technology an
 
 I have multiple years of experience working in the industry as an AI Research Engineer at renowned AI companies in Vietnam, including MoMo M-Service JSC (a unicorn), FPT Software, and VinBrain-Vingroup.
 
-My research interests include:
-- **Computer Vision**: Out-of-Distribution Generalization.
-- **Robotic Vision**: Multimodal models for robotic vision, including text-driven robotic vision tasks.
-- **Medical Imaging**: Semi-Supervised Learning for medical segmentation.
+**My research interests include**:
+- Computer Vision: Out-of-Distribution Generalization.
+- Robotic Vision: Multimodal models for robotic vision, including text-driven robotic vision tasks.
+- Medical Imaging: Semi-Supervised Learning for medical segmentation.
 
