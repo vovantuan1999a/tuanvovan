@@ -21,7 +21,7 @@
 <i>Conference on Neural Information Processing Systems (NeurIPS), 2024</i><br>
 Sy-Tuyen Ho *, <b>Tuan Van Vo *</b>, Somayeh Ebrahimkhani *, Ngai-Man Cheung <br>
 <b> (*Equal contribution)<br>
-[<a href=""> Paper Coming Soon</a>]
+[<a href="">Paper Coming Soon</a>]
 [<a href="https://github.com/vovantuan1999a/OoD-ViT-NAS">Code (Github)</a>]<br>
 <div style="text-align: justify">
 
@@ -78,7 +78,7 @@ Toan Nguyen, Minh Nhat Vu, Baoru Huang, <b>Tuan Van Vo</b>, Vy Truong, Ngan Le, 
 
 <b>Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels</b><br>
 <i>The British Machine Vision Conference (BMVC), 2022</i><br>
-Nam Phuong Nguyen * , <b>Tuan Van Vo * </b>, Soan TM Duong, Chanh D Tr Nguyen, Trung Bui, Steven QH Truong<br>
+Nam Phuong Nguyen * , <b>Tuan Van Vo *</b>, Soan TM Duong, Chanh D Tr Nguyen, Trung Bui, Steven QH Truong<br>
 <b> * Co-first authors, Equal contribution<br>
 [<a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf">BMVC</a>]
 [<a href="https://github.com/VinBrainJSC/DualConsistency_Mutil-CL">Code</a>]<br>
