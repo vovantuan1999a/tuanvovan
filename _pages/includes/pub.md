@@ -21,7 +21,7 @@
 <i>Conference on Neural Information Processing Systems (NeurIPS), 2024</i><br>
 Sy-Tuyen Ho *, <b>Tuan Van Vo *</b>, Somayeh Ebrahimkhani *, Ngai-Man Cheung <br>
 <b> (*Equal contribution)<br>
-[<a href="">Paper Coming Soon</a>]
+[<a href="">Paper (Coming Soon)</a>]
 [<a href="https://github.com/vovantuan1999a/OoD-ViT-NAS">Code (Github)</a>]<br>
 <div style="text-align: justify">
 
