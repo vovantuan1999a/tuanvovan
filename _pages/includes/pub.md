@@ -13,6 +13,22 @@
 
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=TsjvwzgAAAAJ&hl=en&authuser=2'>Google Scholar profile</a>.)
 
+### Out-of-Distribution Generalization:
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><a href="images/neurips_2024.png"><img src='images/neurips_2024.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</b><br>
+<i>Conference on Neural Information Processing Systems (NeurIPS), 2024</i><br>
+Sy-Tuyen Ho*, <b>Tuan Van Vo*</b>, Somayeh Ebrahimkhani*, Ngai-Man Cheung <br>
+<b> (*Equal contribution)<br>
+[<a href="">Coming Soon</a>]
+[<a href="https://github.com/vovantuan1999a/OoD-ViT-NAS">Code (Github)</a>]<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
 ### Multimodal Model for Robotic Vision Task:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><a href="images/openad.png"><img src='images/openad.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +79,7 @@ Toan Nguyen, Minh Nhat Vu, Baoru Huang, <b>Tuan Van Vo</b>, Vy Truong, Ngan Le, 
 <b>Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels</b><br>
 <i>The 33rd British Machine Vision Conference (BMVC), 2022</i><br>
 <b>Nam Phuong Nguyen * , Tuan Van Vo * </b>, Soan TM Duong, Chanh D Tr Nguyen, Trung Bui, Steven QH Truong<br>
-<b> * Denoted as these two authors contributed equally to this work<br>
+<b> * Co-first authors, Equal contribution<br>
 [<a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf">BMVC</a>]
 [<a href="https://github.com/VinBrainJSC/DualConsistency_Mutil-CL">Code</a>]<br>
 <div style="text-align: justify">
