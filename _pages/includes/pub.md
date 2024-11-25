@@ -35,7 +35,7 @@ Sy-Tuyen Ho *, <b>Tuan Van Vo *</b>, Somayeh Ebrahimkhani *, Ngai-Man Cheung <br
 
 <b>Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</b><br>
 <i>IEEE International Conference on Robotics and Automation (ICRA), 2024 </i><br>
-<b>(Oral presentation)</b>
+<b>Oral presentation</b><br>
 <b>Tuan Van Vo</b>, Minh Nhat Vu, Baoru Huang, Toan Nguyen, Ngan Le, Thieu Vo, Anh Nguyen<br>
 [<a href="https://arxiv.org/abs/2309.10932">ICRA</a>]
 [<a href="https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation">Code</a>]<br>
@@ -50,7 +50,7 @@ Sy-Tuyen Ho *, <b>Tuan Van Vo *</b>, Somayeh Ebrahimkhani *, Ngai-Man Cheung <br
 
 <b>Language-driven Grasp Detection with Mask-guided Attention</b><br>
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024</i><br>
-<b>(Oral presentation)</b>
+<b>Oral presentation</b><br>
 <b>Tuan Van Vo</b>, Minh Nhat Vu, Baoru Huang, An Vuong, Ngan Le, Thieu Vo, Anh Nguyen<br>
 [<a href="https://arxiv.org/abs/2407.19877">arXiv</a>]
 [<a href="">Code (Coming Soon)</a>]<br>
@@ -65,7 +65,7 @@ Sy-Tuyen Ho *, <b>Tuan Van Vo *</b>, Somayeh Ebrahimkhani *, Ngai-Man Cheung <br
 
 <b>Language-Conditioned Affordance-Pose Detection in 3D Point Cloud</b><br>
 <i>IEEE International Conference on Robotics and Automation (ICRA), 2024</i><br>
-<b>(Oral presentation)</b>
+<b>Oral presentation</b><br>
 Toan Nguyen, Minh Nhat Vu, Baoru Huang, <b>Tuan Van Vo</b>, Vy Truong, Ngan Le, Thieu Vo, Bac Le, Anh Nguyen<br>
 [<a href="https://arxiv.org/abs/2309.10911">ICRA</a>]
 [<a href="https://github.com/Fsoft-AIC/Language-Conditioned-Affordance-Pose-Detection-in-3D-Point-Clouds">Code</a>]<br>
