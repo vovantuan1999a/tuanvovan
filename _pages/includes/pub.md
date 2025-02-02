@@ -99,7 +99,7 @@ Nam Phuong Nguyen * , <b>Tuan Van Vo *</b>, Soan TM Duong, Chanh D Tr Nguyen, Tr
 B. Huang * , <b>Tuan Van Vo *</b>,  C. Kongtongvattana, ..., Anh Nguyen<br>
 <b> * Co-first authors, Equal contribution<br>
 [<a href="https://arxiv.org/pdf/2408.13126">ArXiv</a>]
-[<a href="https://airvlab.github.io/cathaction/L">Github Page</a>]<br>
+[<a href="https://airvlab.github.io/cathaction/">Github Page</a>]<br>
 <div style="text-align: justify">
 
 </div>
