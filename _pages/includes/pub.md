@@ -75,7 +75,7 @@ Toan Nguyen, Minh Nhat Vu, Baoru Huang, <b>Tuan Van Vo</b>, Vy Truong, Ngan Le, 
 </div>
 </div>
 
-### Semi-Supervised Learning for Medical Segmentation:
+### Medical Imaging:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2022</div><a href="images/BMVC.png"><img src='images/BMVC.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,6 +85,21 @@ Nam Phuong Nguyen * , <b>Tuan Van Vo *</b>, Soan TM Duong, Chanh D Tr Nguyen, Tr
 <b> * Co-first authors, Equal contribution<br>
 [<a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf">BMVC</a>]
 [<a href="https://github.com/VinBrainJSC/DualConsistency_Mutil-CL">Code</a>]<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><a href="images/TMI.png"><img src='images/TMI.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>CathAction: A Benchmark for Endovascular Intervention Understanding</b><br>
+<i>ArXiv</i><br>
+B. Huang * , <b>Tuan Van Vo *</b>,  C. Kongtongvattana, ..., Anh Nguyen<br>
+<b> * Co-first authors, Equal contribution<br>
+[<a href="https://arxiv.org/pdf/2408.13126">ArXiv</a>]
+[<a href="https://airvlab.github.io/cathaction/L">Github Page</a>]<br>
 <div style="text-align: justify">
 
 </div>
