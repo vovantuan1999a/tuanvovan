@@ -14,7 +14,7 @@
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=TsjvwzgAAAAJ&hl=en&authuser=2'>Google Scholar profile</a>.)
 
 ### Foundation models and World models — Vision-language-action models:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><a href="ReFine.jpeg"><img src='ReFine.jpeg' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><a href="ReFine.jpeg"><img src='ReFine.jpeg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning</b><br>
