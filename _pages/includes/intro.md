@@ -2,6 +2,5 @@ Previously, I was a Research Assistant at the Singapore University of Technology
 
 I have multiple years of experience working in the industry as an AI Research Engineer at renowned AI companies in Vietnam, including MoMo M-Service JSC (a unicorn), FPT Software, and VinBrain (Acquired by NVIDIA).
 
-My research focuses on **Embodied AI**, an interdisciplinary field integrating robotics, computer vision, and natural language processing. I aim to enable robots to achieve human-level manipulation capabilities through large-scale data and real-world interaction. I am particularly interested in foundation models and world models—such as vision-language-action models, multimodal learning, and domain generalization—and their applications in robotics, computer vision, out-of-distribution (OOD) generalization, and medical imaging.
-
+My research focuses on **Embodied AI**, an interdisciplinary field integrating robotics, computer vision, and natural language processing. I study intelligent agents based on Multimodal Large Language Models (MLLMs) that can perceive, reason, and act through interaction with the world.
 
