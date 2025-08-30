@@ -5,7 +5,7 @@
 <div class='experience-box-text' markdown="1">
 
 <b>Singapore University of Technology and Design</b>, Singapore.<br>
-Researcher Assistant, Sep 2023 - Now.<br>
+Researcher Assistant, Sep 2023 - Mar 2025.<br>
 
 </div>
 </div>
