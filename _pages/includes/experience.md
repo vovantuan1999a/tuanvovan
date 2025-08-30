@@ -1,6 +1,15 @@
 
 # Experiences
 
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/images.png"><img src='images/images.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box-text' markdown="1">
+
+<b>VinRobotics-VinGroup</b>, Vietnam.<br>
+Principal Research Engineer, Mar 2025 - Aug 2025.<br>
+
+</div>
+</div>
+
 <div class='experience-box'><div class='experience-box-image'><div><a href="images/SUTD.png"><img src='images/SUTD.png' alt="sym" width="100%"></a></div></div>
 <div class='experience-box-text' markdown="1">
 
