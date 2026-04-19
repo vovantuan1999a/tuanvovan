@@ -1,0 +1,32 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person" class="author-card">
+  <div class="author-card__avatar">
+    <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+  </div>
+
+  <div class="author-card__content">
+    <h1 class="author-card__name">{{ author.name }}</h1>
+    {% if author.profile_title %}<p class="author-card__line">{{ author.profile_title }}</p>{% endif %}
+    {% if author.profile_affiliation %}<p class="author-card__line">{{ author.profile_affiliation }}</p>{% endif %}
+    {% if author.location %}<p class="author-card__line">{{ author.location }}</p>{% endif %}
+    {% if author.email %}<p class="author-card__email">{{ author.email }}</p>{% endif %}
+  </div>
+
+  <div class="author-card__links" aria-label="profile links">
+    {% if author.googlescholar %}
+      <a href="{{ author.googlescholar }}" title="Google Scholar"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>
+    {% endif %}
+    <a href="{{ '/TuanVanVo_resume.pdf' | relative_url }}" class="author-card__cv" title="CV">CV</a>
+    {% if author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if author.github %}
+      <a href="https://github.com/{{ author.github }}" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+    {% endif %}
+  </div>
+</div>
