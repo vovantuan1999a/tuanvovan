@@ -10,7 +10,7 @@
  *
 */
 
-@import "vendor/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -37,7 +37,7 @@
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup";
+@import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
 .paper-box {
