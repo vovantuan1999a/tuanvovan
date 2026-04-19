@@ -4,3 +4,5 @@ push.sh
 /github_myprofile_updater/README.md
 .bundle/
 vendor/
+!_sass/vendor/
+!_sass/vendor/**
