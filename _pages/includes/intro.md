@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 
 <p>
-  I am a PhD student in Computer Vision at
+  I am a first-year PhD student in Computer Vision at
   <a href="https://mbzuai.ac.ae/">Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)</a>,
   under the supervision of
   <a href="https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en">Prof. Ian Reid</a>.
