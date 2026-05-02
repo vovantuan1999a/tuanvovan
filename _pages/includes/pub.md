@@ -53,7 +53,7 @@
       <div class="showcase-title">ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning</div>
       <div class="showcase-subtitle"><strong>Tuan Van Vo</strong>, Quang Tan Nguyen, Khang Nguyen, Tran Xuan Nhat, Duy Minh Ho Nguyen, An Thai Le, Vien Anh Ngo, Minh Nhat Vu.</div>
       <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-links"><a href="https://arxiv.org/abs/2505.19080">arXiv</a></div>
+      <div class="showcase-links"><a href="https://arxiv.org/abs/2604.17800">arXiv</a></div>
     </div>
   </div>
 
