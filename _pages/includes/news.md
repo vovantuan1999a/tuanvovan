@@ -12,8 +12,8 @@
   </div>
 
   <div class="news-item">
-    <div class="news-date">May 2025</div>
-    <div class="news-text">We teach VLAs to reason about their actions by augmenting robotic data with teacher-generated rationales. ReFineVLA improves attention alignment, multimodal understanding, and generalization for complex manipulation tasks. Paper available on <a href="https://arxiv.org/abs/2505.19080">arXiv</a>.</div>
+    <div class="news-date">Apr. 2026</div>
+    <div class="news-text">We teach VLAs to reason about their actions by augmenting robotic data with teacher-generated rationales. ReFineVLA improves attention alignment, multimodal understanding, and generalization for complex manipulation tasks. Paper available on <a href="https://arxiv.org/abs/2604.17800">arXiv</a>.</div>
   </div>
 
   <div class="news-item">
