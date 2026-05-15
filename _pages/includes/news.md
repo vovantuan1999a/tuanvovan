@@ -3,7 +3,7 @@
 <div class="news-list">
   <div class="news-item">
     <div class="news-date">Apr, 2026</div>
-    <div class="news-text">One paper accepted to CVPR 2026 Workshop on Multimodal Foundation Models: <a href="https://arxiv.org/abs/2604.10039">Counting to Four is still a Chore for VLMs</a>.</div>
+    <div class="news-text">One paper accepted to <span class="news-venue">CVPR 2026 Workshop on Multimodal Foundation Models</span>: <a href="https://arxiv.org/abs/2604.10039">Counting to Four is still a Chore for VLMs</a>.</div>
   </div>
 
   <div class="news-item">
@@ -17,13 +17,13 @@
   </div>
 
   <div class="news-item">
-    <div class="news-date">May, 2026</div>
+    <div class="news-date">2026</div>
     <div class="news-text">Started my PhD in Computer Vision at <a href="https://mbzuai.ac.ae/">MBZUAI</a>.</div>
   </div>
 
   <div class="news-item">
     <div class="news-date">Sep, 2024</div>
-    <div class="news-text">One paper accepted to NeurIPS 2024: <a href="https://openreview.net/forum?id=2AIwiIkE0s">Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</a>.</div>
+    <div class="news-text">One paper accepted to <span class="news-venue">NeurIPS 2024</span>: <a href="https://openreview.net/forum?id=2AIwiIkE0s">Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</a>.</div>
   </div>
 
   <div class="news-item">
@@ -33,16 +33,16 @@
 
   <div class="news-item">
     <div class="news-date">Jul, 2024</div>
-    <div class="news-text">One paper accepted to IROS 2024: <a href="https://arxiv.org/abs/2407.19877">Language-driven Grasp Detection with Mask-guided Attention</a>.</div>
+    <div class="news-text">One paper accepted to <span class="news-venue">IROS 2024</span>: <a href="https://arxiv.org/abs/2407.19877">Language-driven Grasp Detection with Mask-guided Attention</a>.</div>
   </div>
 
   <div class="news-item">
     <div class="news-date">Jan, 2024</div>
-    <div class="news-text">Two papers accepted to ICRA 2024: <a href="https://arxiv.org/abs/2309.10932">Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</a> and <a href="https://arxiv.org/abs/2309.10911">Language-Conditioned Affordance-Pose Detection in 3D Point Clouds</a>.</div>
+    <div class="news-text">Two papers accepted to <span class="news-venue">ICRA 2024</span>: <a href="https://arxiv.org/abs/2309.10932">Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</a> and <a href="https://arxiv.org/abs/2309.10911">Language-Conditioned Affordance-Pose Detection in 3D Point Clouds</a>.</div>
   </div>
 
   <div class="news-item">
     <div class="news-date">Sep, 2022</div>
-    <div class="news-text">One paper accepted to BMVC 2022: <a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf">Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels</a>.</div>
+    <div class="news-text">One paper accepted to <span class="news-venue">BMVC 2022</span>: <a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf">Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels</a>.</div>
   </div>
 </div>
