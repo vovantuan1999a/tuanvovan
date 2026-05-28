@@ -8,7 +8,7 @@
     <div class="showcase-content">
       <div class="showcase-title">Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)</div>
       <div class="showcase-subtitle">PhD in Computer Vision, supervised by <a href="https://scholar.google.com/citations?user=ATkNLcQAAAAJ&hl=en">Prof. Ian Reid</a></div>
-      <div class="showcase-meta">2026 - Present · Abu Dhabi, UAE</div>
+      <div class="showcase-meta">2025 - Present · Abu Dhabi, UAE</div>
     </div>
   </div>
 

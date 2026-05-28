@@ -17,7 +17,7 @@
   </div>
 
   <div class="news-item">
-    <div class="news-date">2026</div>
+    <div class="news-date">Sep, 2025</div>
     <div class="news-text">Started my PhD in Computer Vision at <a href="https://mbzuai.ac.ae/">MBZUAI</a>.</div>
   </div>
 
