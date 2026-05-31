@@ -5,14 +5,15 @@
 <div class="showcase-list">
   <div class="showcase-item showcase-item--paper">
     <div class="showcase-media showcase-media--paper">
-      <div class="showcase-badge">Book Chapter</div>
-      <div class="showcase-placeholder">CathSim</div>
+      <div class="showcase-badge">arXiv</div>
+      <img src="{{ '/images/w2act.png' | relative_url }}" alt="World2Act paper figure">
     </div>
     <div class="showcase-content">
-      <div class="showcase-title">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</div>
-      <div class="showcase-subtitle">Tudor Jianu, Baoru Huang, <strong>Tuan Van Vo</strong>, Minh Nhat Vu, Jingxuan Kang, Hoan Nguyen, Olatunji Omisore, Pierre Berthet-Rayne, Sebastiano Fichera, Anh Nguyen.</div>
-      <div class="showcase-meta"><span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>, pp. 131-148, Elsevier, 2026.</div>
-      <div class="showcase-links"><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443139123000543">Chapter</a> <a href="https://arxiv.org/abs/2401.09059">arXiv</a> <a href="https://github.com/airvlab/cathsim">Code</a></div>
+      <div class="showcase-title">World2Act: Latent Action Post-Training via Skill-Compositional World Models</div>
+      <div class="showcase-subtitle">An Dinh Vuong*, <strong>Tuan Van Vo*</strong>, Abdullah Sohail, Haoran Ding, Liang Ma, Xiaodan Liang, Anqing Duan, Ivan Laptev, Ian Reid.</div>
+      <div class="showcase-meta">arXiv preprint.</div>
+      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
+      <div class="showcase-links"><a href="https://arxiv.org/abs/2603.10422">arXiv</a> <a href="https://wm2act.github.io/">Homepage</a></div>
     </div>
   </div>
 
@@ -30,16 +31,15 @@
   </div>
 
   <div class="showcase-item showcase-item--paper">
-    <div class="showcase-media showcase-media--paper">
-      <div class="showcase-badge">arXiv</div>
-      <img src="{{ '/images/w2act.png' | relative_url }}" alt="World2Act paper figure">
+    <div class="showcase-media showcase-media--paper showcase-media--contain">
+      <div class="showcase-badge">Book Chapter</div>
+      <img src="{{ '/images/cathsim-overview.png' | relative_url }}" alt="CathSim overview and system architecture">
     </div>
     <div class="showcase-content">
-      <div class="showcase-title">World2Act: Latent Action Post-Training via Skill-Compositional World Models</div>
-      <div class="showcase-subtitle">An Dinh Vuong*, <strong>Tuan Van Vo*</strong>, Abdullah Sohail, Haoran Ding, Liang Ma, Xiaodan Liang, Anqing Duan, Ivan Laptev, Ian Reid.</div>
-      <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
-      <div class="showcase-links"><a href="https://arxiv.org/abs/2603.10422">arXiv</a> <a href="https://wm2act.github.io/">Homepage</a></div>
+      <div class="showcase-title">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</div>
+      <div class="showcase-subtitle">Tudor Jianu, Baoru Huang, <strong>Tuan Van Vo</strong>, Minh Nhat Vu, Jingxuan Kang, Hoan Nguyen, Olatunji Omisore, Pierre Berthet-Rayne, Sebastiano Fichera, Anh Nguyen.</div>
+      <div class="showcase-meta"><span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>, pp. 131-148, Elsevier, 2026.</div>
+      <div class="showcase-links"><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443139123000543">Chapter</a> <a href="https://arxiv.org/abs/2401.09059">arXiv</a> <a href="https://github.com/airvlab/cathsim">Code</a></div>
     </div>
   </div>
 

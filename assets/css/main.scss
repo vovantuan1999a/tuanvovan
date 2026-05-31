@@ -460,6 +460,19 @@ $scroll_offset : 2em;
     min-height: 145px;
 }
 
+.showcase-media--contain {
+    display: flex;
+    align-items: center;
+    min-height: 145px;
+    background: #fff;
+}
+
+.showcase-media--contain img {
+    height: auto;
+    min-height: 0;
+    object-fit: contain;
+}
+
 .showcase-media--logo {
     display: flex;
     align-items: center;
