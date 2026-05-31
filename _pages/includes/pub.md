@@ -39,7 +39,7 @@
       <div class="showcase-title">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</div>
       <div class="showcase-subtitle">Tudor Jianu, Baoru Huang, <strong>Tuan Van Vo</strong>, Minh Nhat Vu, Jingxuan Kang, Hoan Nguyen, Olatunji Omisore, Pierre Berthet-Rayne, Sebastiano Fichera, Anh Nguyen.</div>
       <div class="showcase-meta"><span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>, 2026.</div>
-      <div class="showcase-links"><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443139123000543">Chapter</a> <a href="https://arxiv.org/abs/2401.09059">arXiv</a> <a href="https://github.com/airvlab/cathsim">Code</a></div>
+      <div class="showcase-links"><a href="https://arxiv.org/abs/2401.09059">Paper</a> <a href="https://github.com/airvlab/cathsim">Code</a></div>
     </div>
   </div>
 
