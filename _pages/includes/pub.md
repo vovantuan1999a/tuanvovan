@@ -5,6 +5,19 @@
 <div class="showcase-list">
   <div class="showcase-item showcase-item--paper">
     <div class="showcase-media showcase-media--paper">
+      <div class="showcase-badge">Book Chapter</div>
+      <div class="showcase-placeholder">CathSim</div>
+    </div>
+    <div class="showcase-content">
+      <div class="showcase-title">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</div>
+      <div class="showcase-subtitle">Tudor Jianu, Baoru Huang, <strong>Tuan Van Vo</strong>, Minh Nhat Vu, Jingxuan Kang, Hoan Nguyen, Olatunji Omisore, Pierre Berthet-Rayne, Sebastiano Fichera, Anh Nguyen.</div>
+      <div class="showcase-meta"><span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>, pp. 131-148, Elsevier, 2026.</div>
+      <div class="showcase-links"><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443139123000543">Chapter</a> <a href="https://arxiv.org/abs/2401.09059">arXiv</a> <a href="https://github.com/airvlab/cathsim">Code</a></div>
+    </div>
+  </div>
+
+  <div class="showcase-item showcase-item--paper">
+    <div class="showcase-media showcase-media--paper">
       <div class="showcase-badge">CVPRW 2026</div>
       <img src="{{ '/images/couting-cvprw2026.png' | relative_url }}" alt="Counting to Four paper figure">
     </div>
@@ -12,7 +25,7 @@
       <div class="showcase-title">Counting to Four is still a Chore for VLMs</div>
       <div class="showcase-subtitle">Duy Le Dinh Anh, Patrick Amadeus Irawan, <strong>Tuan Van Vo</strong>.</div>
       <div class="showcase-meta"><span class="news-venue">CVPR 2026 Workshop on Multimodal Foundation Models</span>.</div>
-      <div class="showcase-links"><a href="https://arxiv.org/abs/2604.10039">arXiv</a></div>
+      <div class="showcase-links"><a href="https://openaccess.thecvf.com/content/CVPR2026W/MMFM5/papers/Le_Dinh_Anh_Counting_to_Four_is_still_a_Chore_for_VLMs_CVPRW_2026_paper.pdf">CVPRW 2026 </a></div>
     </div>
   </div>
 

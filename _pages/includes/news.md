@@ -17,6 +17,11 @@
   </div>
 
   <div class="news-item">
+    <div class="news-date">Jan, 2026</div>
+    <div class="news-text">One book chapter published in <span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>: <a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443139123000543">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</a>.</div>
+  </div>
+
+  <div class="news-item">
     <div class="news-date">Sep, 2025</div>
     <div class="news-text">Started my PhD in Computer Vision at <a href="https://mbzuai.ac.ae/">MBZUAI</a>.</div>
   </div>
