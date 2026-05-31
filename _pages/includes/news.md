@@ -18,7 +18,7 @@
 
   <div class="news-item">
     <div class="news-date">Jan, 2026</div>
-    <div class="news-text">One book chapter published in <span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>: <a href="https://arxiv.org/abs/2408.13126">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</a>.</div>
+    <div class="news-text">One book chapter published in <span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>: <a href="https://arxiv.org/abs/2401.09059">Autonomous Catheterization with Open-source Simulator and Expert Trajectory</a>.</div>
   </div>
 
   <div class="news-item">
