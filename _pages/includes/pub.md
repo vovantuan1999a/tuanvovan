@@ -12,7 +12,7 @@
       <div class="showcase-title">World2Act: Latent Action Post-Training via Skill-Compositional World Models</div>
       <div class="showcase-subtitle">An Dinh Vuong*, <strong>Tuan Van Vo*</strong>, Abdullah Sohail, Haoran Ding, Liang Ma, Xiaodan Liang, Anqing Duan, Ivan Laptev, Ian Reid.</div>
       <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
+      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
       <div class="showcase-links"><a href="https://arxiv.org/abs/2603.10422"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://wm2act.github.io/"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a></div>
     </div>
   </div>
@@ -52,7 +52,7 @@
       <div class="showcase-title">CathAction: A Benchmark for Endovascular Intervention Understanding</div>
       <div class="showcase-subtitle">Baoru Huang*, <strong>Tuan Van Vo*</strong>, Chayun Kongtongvattana, Anh Nguyen.</div>
       <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
+      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
       <div class="showcase-links"><a href="https://arxiv.org/abs/2408.13126"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://airvlab.github.io/cathaction/"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a></div>
     </div>
   </div>
@@ -79,7 +79,7 @@
       <div class="showcase-title">Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</div>
       <div class="showcase-subtitle">Sy-Tuyen Ho*, <strong>Tuan Van Vo*</strong>, Somayeh Ebrahimkhani*, Ngai-Man Cheung.</div>
       <div class="showcase-meta"><span class="news-venue">NeurIPS 2024</span>.</div>
-      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
+      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
       <div class="showcase-links"><a href="https://openreview.net/forum?id=2AIwiIkE0s"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://hosytuyen.github.io/projects/OoD-ViT-NAS/index.html"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a> <a href="https://huggingface.co/datasets/hosytuyen/OoD-ViT-NAS"><span aria-hidden="true">🤗</span> Dataset</a> <a href="https://github.com/vovantuan1999a/OoD-ViT-NAS"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a></div>
     </div>
   </div>
@@ -132,7 +132,7 @@
       <div class="showcase-title">Dual consistency assisted multi-confident learning for the hepatic vessel segmentation using noisy labels</div>
       <div class="showcase-subtitle">Nam Phuong Nguyen*, <strong>Tuan Van Vo*</strong>, Soan T. M. Duong, Chanh D. Tr. Nguyen, Trung Bui, Steven Q. H. Truong.</div>
       <div class="showcase-meta"><span class="news-venue">BMVC 2022</span>.</div>
-      <div class="showcase-note showcase-note--accent">(*) Co-first authors, equal contribution.</div>
+      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
       <div class="showcase-links"><a href="https://bmvc2022.mpi-inf.mpg.de/0725.pdf"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://github.com/VinBrainJSC/DualConsistency_Mutil-CL"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a></div>
     </div>
   </div>
