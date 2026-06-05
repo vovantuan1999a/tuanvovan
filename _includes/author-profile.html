@@ -22,8 +22,8 @@
       <a href="{{ author.googlescholar }}" title="Google Scholar"><i class="ai ai-google-scholar-square" aria-hidden="true"></i></a>
     {% endif %}
     <a href="{{ '/TuanVanVo_resume.pdf' | relative_url }}" class="author-card__cv" title="CV">CV</a>
-    {% if author.linkedin %}
-      <a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+    {% if author.twitter %}
+      <a href="https://x.com/{{ author.twitter | remove: '@' }}" title="X / Twitter"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
     {% endif %}
     {% if author.github %}
       <a href="https://github.com/{{ author.github }}" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
