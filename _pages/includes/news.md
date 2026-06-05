@@ -28,7 +28,7 @@
 
   <div class="news-item">
     <div class="news-date">Sep, 2024</div>
-    <div class="news-text">One paper accepted to <span class="news-venue">NeurIPS 2024</span>: <a href="https://openreview.net/forum?id=2AIwiIkE0s">Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</a>.</div>
+    <div class="news-text">One paper accepted to <span class="news-venue">NeurIPS 2024</span>: <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/9952369f49ecc064d169fe6612cbf204-Paper-Conference.pdf">Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights</a>.</div>
   </div>
 
   <div class="news-item">

@@ -80,7 +80,7 @@
       <div class="showcase-subtitle">Sy-Tuyen Ho*, <strong>Tuan Van Vo*</strong>, Somayeh Ebrahimkhani*, Ngai-Man Cheung.</div>
       <div class="showcase-meta"><span class="news-venue">NeurIPS 2024</span>.</div>
       <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
-      <div class="showcase-links"><a href="https://openreview.net/forum?id=2AIwiIkE0s"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://hosytuyen.github.io/projects/OoD-ViT-NAS/index.html"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a> <a href="https://huggingface.co/datasets/hosytuyen/OoD-ViT-NAS"><span aria-hidden="true">🤗</span> Dataset</a> <a href="https://github.com/vovantuan1999a/OoD-ViT-NAS"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a></div>
+      <div class="showcase-links"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/9952369f49ecc064d169fe6612cbf204-Paper-Conference.pdf"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://hosytuyen.github.io/projects/OoD-ViT-NAS/index.html"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a> <a href="https://huggingface.co/datasets/hosytuyen/OoD-ViT-NAS"><span aria-hidden="true">🤗</span> Dataset</a> <a href="https://github.com/vovantuan1999a/OoD-ViT-NAS"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a></div>
     </div>
   </div>
 
