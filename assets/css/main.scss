@@ -299,14 +299,36 @@ $scroll_offset : 2em;
     color: #4b5563;
 }
 
+#publications h2,
 .publication-group-title {
-    margin: 1.45rem 0 0.65rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 1px solid #e5e7eb;
-    color: #133b73;
-    font-size: 1.18rem;
+    position: relative;
+    display: inline-block;
+    margin: 0 0 1.35rem;
+    padding-bottom: 0.42rem;
+    border-bottom: 0;
+    color: #1f1f1f;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 2.55rem;
     font-weight: 700;
-    line-height: 1.25;
+    letter-spacing: 0;
+    line-height: 1.08;
+}
+
+#publications h2::after,
+.publication-group-title::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5px;
+    border-radius: 999px;
+    background: #d66b56;
+}
+
+.publication-group-title {
+    margin-top: 2.2rem;
+    font-size: 2.25rem;
 }
 
 .publication-group-title + .showcase-list {
