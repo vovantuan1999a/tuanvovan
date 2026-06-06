@@ -2,7 +2,7 @@
 
 <p class="section-note">Full list available on <a href="https://scholar.google.com/citations?user=TsjvwzgAAAAJ&hl=en&authuser=2">Google Scholar</a>.</p>
 
-<h3 class="publication-group-title">Preprints and Under Submission</h3>
+<h3 class="publication-group-title">Under Submission</h3>
 
 <div class="showcase-list">
   <div class="showcase-item showcase-item--paper">
