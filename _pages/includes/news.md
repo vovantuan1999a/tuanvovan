@@ -43,7 +43,7 @@
 
   <div class="news-item">
     <div class="news-date">Jan, 2024</div>
-    <div class="news-text">Two papers accepted to <span class="news-venue">ICRA 2024</span>: <a href="https://arxiv.org/abs/2309.10932">Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</a> and <a href="https://arxiv.org/abs/2309.10911">Language-Conditioned Affordance-Pose Detection in 3D Point Clouds</a>.</div>
+    <div class="news-text"><span class="news-highlight">Two papers</span> accepted to <span class="news-venue">ICRA 2024</span>: <a href="https://arxiv.org/abs/2309.10932">Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation</a> and <a href="https://arxiv.org/abs/2309.10911">Language-Conditioned Affordance-Pose Detection in 3D Point Clouds</a>.</div>
   </div>
 
   <div class="news-item">

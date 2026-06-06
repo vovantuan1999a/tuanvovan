@@ -299,20 +299,19 @@ $scroll_offset : 2em;
     color: #4b5563;
 }
 
-#publications h2,
 .publication-group-title {
     position: relative;
     display: inline-block;
+    margin: 1.35rem 0 0.75rem;
     padding-bottom: 0.28rem;
     border-bottom: 0;
-    color: #1f1f1f;
-    font-family: Georgia, "Times New Roman", serif;
+    color: #133b73;
+    font-size: 1.95rem;
     font-weight: 700;
-    letter-spacing: 0;
-    line-height: 1.2;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
 }
 
-#publications h2::after,
 .publication-group-title::after {
     content: "";
     position: absolute;
@@ -322,16 +321,6 @@ $scroll_offset : 2em;
     height: 3px;
     border-radius: 999px;
     background: #d66b56;
-}
-
-#publications h2 {
-    margin: 0 0 1rem;
-    font-size: 1.95rem;
-}
-
-.publication-group-title {
-    margin: 1.35rem 0 0.75rem;
-    font-size: 1.18rem;
 }
 
 .publication-group-title + .showcase-list {
@@ -397,7 +386,8 @@ $scroll_offset : 2em;
     line-height: 1.5;
 }
 
-.news-venue {
+.news-venue,
+.news-highlight {
     color: #b45309;
     font-weight: 700;
 }
