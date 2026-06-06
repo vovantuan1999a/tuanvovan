@@ -299,6 +299,20 @@ $scroll_offset : 2em;
     color: #4b5563;
 }
 
+.publication-group-title {
+    margin: 1.45rem 0 0.65rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid #e5e7eb;
+    color: #133b73;
+    font-size: 1.18rem;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.publication-group-title + .showcase-list {
+    margin-top: 0;
+}
+
 .intro-highlight {
     padding: 1rem 1.15rem;
     border: 1px solid #c9dcf2;

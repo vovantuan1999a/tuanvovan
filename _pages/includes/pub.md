@@ -2,6 +2,8 @@
 
 <p class="section-note">Full list available on <a href="https://scholar.google.com/citations?user=TsjvwzgAAAAJ&hl=en&authuser=2">Google Scholar</a>.</p>
 
+<h3 class="publication-group-title">Preprints and Under Submission</h3>
+
 <div class="showcase-list">
   <div class="showcase-item showcase-item--paper">
     <div class="showcase-media showcase-media--paper">
@@ -17,6 +19,37 @@
     </div>
   </div>
 
+  <div class="showcase-item showcase-item--paper">
+    <div class="showcase-media showcase-media--paper">
+      <div class="showcase-badge">arXiv</div>
+      <img src="{{ '/ReFine.jpeg' | relative_url }}" alt="ReFineVLA paper figure">
+    </div>
+    <div class="showcase-content">
+      <div class="showcase-title">ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning</div>
+      <div class="showcase-subtitle"><strong>Tuan Van Vo</strong>, Quang Tan Nguyen, Khang Nguyen, Tran Xuan Nhat, Duy Minh Ho Nguyen, An Thai Le, Vien Anh Ngo, Minh Nhat Vu.</div>
+      <div class="showcase-meta">arXiv preprint.</div>
+      <div class="showcase-links"><a href="https://arxiv.org/abs/2604.17800"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a></div>
+    </div>
+  </div>
+
+  <div class="showcase-item showcase-item--paper">
+    <div class="showcase-media showcase-media--paper">
+      <div class="showcase-badge">arXiv</div>
+      <img src="{{ '/images/TMI.png' | relative_url }}" alt="CathAction paper figure">
+    </div>
+    <div class="showcase-content">
+      <div class="showcase-title">CathAction: A Benchmark for Endovascular Intervention Understanding</div>
+      <div class="showcase-subtitle">Baoru Huang*, <strong>Tuan Van Vo*</strong>, Chayun Kongtongvattana, Anh Nguyen.</div>
+      <div class="showcase-meta">arXiv preprint.</div>
+      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
+      <div class="showcase-links"><a href="https://arxiv.org/abs/2408.13126"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://airvlab.github.io/cathaction/"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a></div>
+    </div>
+  </div>
+</div>
+
+<h3 class="publication-group-title">Accepted / Published</h3>
+
+<div class="showcase-list">
   <div class="showcase-item showcase-item--paper">
     <div class="showcase-media showcase-media--paper">
       <div class="showcase-badge">CVPRW 2026</div>
@@ -40,33 +73,6 @@
       <div class="showcase-subtitle">Tudor Jianu, Baoru Huang, <strong>Tuan Van Vo</strong>, Minh Nhat Vu, Jingxuan Kang, Hoan Nguyen, Olatunji Omisore, Pierre Berthet-Rayne, Sebastiano Fichera, Anh Nguyen.</div>
       <div class="showcase-meta"><span class="news-venue">Handbook of Robotic and Image-Guided Surgery</span>, 2026.</div>
       <div class="showcase-links"><a href="https://arxiv.org/abs/2401.09059"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://github.com/airvlab/cathsim"><i class="fa-brands fa-github" aria-hidden="true"></i> Code</a></div>
-    </div>
-  </div>
-
-  <div class="showcase-item showcase-item--paper">
-    <div class="showcase-media showcase-media--paper">
-      <div class="showcase-badge">arXiv</div>
-      <img src="{{ '/images/TMI.png' | relative_url }}" alt="CathAction paper figure">
-    </div>
-    <div class="showcase-content">
-      <div class="showcase-title">CathAction: A Benchmark for Endovascular Intervention Understanding</div>
-      <div class="showcase-subtitle">Baoru Huang*, <strong>Tuan Van Vo*</strong>, Chayun Kongtongvattana, Anh Nguyen.</div>
-      <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-note showcase-note--accent">(*) First Authors.</div>
-      <div class="showcase-links"><a href="https://arxiv.org/abs/2408.13126"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a> <a href="https://airvlab.github.io/cathaction/"><i class="fa-solid fa-globe" aria-hidden="true"></i> Project</a></div>
-    </div>
-  </div>
-
-  <div class="showcase-item showcase-item--paper">
-    <div class="showcase-media showcase-media--paper">
-      <div class="showcase-badge">arXiv</div>
-      <img src="{{ '/ReFine.jpeg' | relative_url }}" alt="ReFineVLA paper figure">
-    </div>
-    <div class="showcase-content">
-      <div class="showcase-title">ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning</div>
-      <div class="showcase-subtitle"><strong>Tuan Van Vo</strong>, Quang Tan Nguyen, Khang Nguyen, Tran Xuan Nhat, Duy Minh Ho Nguyen, An Thai Le, Vien Anh Ngo, Minh Nhat Vu.</div>
-      <div class="showcase-meta">arXiv preprint.</div>
-      <div class="showcase-links"><a href="https://arxiv.org/abs/2604.17800"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a></div>
     </div>
   </div>
 
