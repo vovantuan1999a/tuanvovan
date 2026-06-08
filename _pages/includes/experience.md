@@ -58,7 +58,7 @@
       <img src="{{ '/images/momo.png' | relative_url }}" alt="MoMo logo">
     </div>
     <div class="showcase-content">
-      <div class="showcase-title">Computer Vision Research Engineer</div>
+      <div class="showcase-title">Senior Computer Vision Research Engineer</div>
       <div class="showcase-subtitle">MoMo (M-Service JSC) <span class="inline-accent" style="color:#2f78b7;font-weight:600;">(a tech unicorn)</span></div>
       <div class="showcase-meta">Jun. 2022 - Aug. 2023 · Vietnam</div>
       <div class="showcase-note">Built production computer vision systems for eKYC, including face anti-spoofing, OCR, object detection, document understanding, fraud detection, and deepfake detection. <strong>Achieved a 99% accuracy rate with low latency, serving nearly 40 million users at about 45 RPS. These AI eKYC systems have gained trust and are utilized by the Apple Online Store in Vietnam.</strong></div>
