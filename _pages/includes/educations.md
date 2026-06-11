@@ -16,8 +16,8 @@
     <div class="showcase-media showcase-media--logo">
       <img src="{{ '/images/uit.png' | relative_url }}" alt="UIT logo">
     </div>
-    <div class="showcase-content">
-      <div class="showcase-title">University of Information Technology, Vietnam National University Ho Chi Minh City</div>
+    <div class="showcase-content">Vietnam National University Ho Chi Minh City, 
+      <div class="showcase-title">University of Information Technology</div>
       <div class="showcase-subtitle">B.Sc. in Computer Science, Talented Honors Program</div>
       <div class="showcase-meta">Aug. 2017 - Jun. 2021 ·</div>
       <div class="showcase-note">Supervised by <a href="https://scholar.google.co.uk/citations?user=6lbtgt4AAAAJ&hl=en">Prof. Le Dinh Duy</a>. The honors program offered a special curriculum, scholarships, and additional academic privileges for outstanding undergraduate students.</div>

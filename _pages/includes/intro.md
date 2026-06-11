@@ -24,7 +24,7 @@
 
 <p>
   Before that, I received my B.Sc. in Computer Science from the
-  <a href="https://en.uit.edu.vn/">University of Information Technology, VNU-HCM</a>,
+  <a href="https://en.uit.edu.vn/">Vietnam National University Ho Chi Minh City, University of Information Technology</a>,
   where I graduated from the talented honors program and was supervised by
   <a href="https://scholar.google.co.uk/citations?user=6lbtgt4AAAAJ&hl=en">Prof. Le Dinh Duy</a>.
 </p>
