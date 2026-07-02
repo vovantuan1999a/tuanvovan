@@ -50,11 +50,9 @@
 <div class="personal-note">
   <h3>Personal Note</h3>
   <div class="personal-note__tags" aria-label="personal background">
-    <span><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Hometown: Lao Bao, Vietnam</span>
-    <span><i class="fas fa-road" aria-hidden="true"></i> Vietnam-Laos Border</span>
     <span><i class="fas fa-graduation-cap" aria-hidden="true"></i> First-Generation Journey</span>
   </div>
   <p>
-    I am currently based in Abu Dhabi, UAE for my PhD, but my journey started in <span class="inline-accent">Lao Bao, a border town in Quang Tri, Vietnam, next to Laos</span>. It is a difficult region where educational opportunities can be limited, and there was a time when attending university felt almost impossible for me. I kept taking every chance I could to continue studying and move forward. Now, as a PhD student in Computer Vision, that journey reminds me to work with persistence, stay grateful for every opportunity, and use research and education to open doors for others from underrepresented places.
+    I grew up in <span class="inline-accent">Lao Bao, a border town in Quang Tri, Vietnam, next to Laos</span>. It is a difficult region where educational opportunities can be limited, and there was a time when attending university felt almost impossible for me. I kept taking every chance I could to continue studying and move forward. Now, as a PhD student in Computer Vision, that journey reminds me to work with persistence, stay grateful for every opportunity, and use research and education to open doors for others from underrepresented places.
   </p>
 </div>
