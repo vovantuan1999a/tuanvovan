@@ -40,6 +40,18 @@
   More broadly, I hope to build intelligent agents that can perceive, reason, and act robustly in the physical world.
 </p>
 
+<div class="personal-note">
+  <h3>Personal Note</h3>
+  <div class="personal-note__tags" aria-label="personal background">
+    <span><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Lao Bao, Vietnam</span>
+    <span><i class="fas fa-road" aria-hidden="true"></i> Border Town</span>
+    <span><i class="fas fa-graduation-cap" aria-hidden="true"></i> First-Generation Journey</span>
+  </div>
+  <p>
+    I grew up in <span class="inline-accent">Lao Bao, a border town in Quang Tri, Vietnam, next to Laos</span>. It is a difficult region where educational opportunities can be limited, and there was a time when attending university felt almost impossible for me. I kept taking every chance I could to continue studying and move forward. Now, as a PhD student in Computer Vision, that journey reminds me to work with persistence, stay grateful for every opportunity, and use research and education to open doors for others from underrepresented places.
+  </p>
+</div>
+
 <p class="intro-highlight">
   <span class="intro-highlight__lead">I am also actively seeking research internship opportunities</span> in embodied AI, embodied spatial reasoning, spatial intelligence,
   vision-language-action and vision-language models, multimodal reasoning, world models, and robot planning and perception,

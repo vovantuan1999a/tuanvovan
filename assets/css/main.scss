@@ -342,6 +342,46 @@ $scroll_offset : 2em;
     font-weight: 700;
 }
 
+.personal-note {
+    margin: 1.35rem 0 1.75rem;
+    padding: 1rem 1.15rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    background: #f8fafc;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+}
+
+.personal-note h3 {
+    margin: 0 0 0.85rem;
+    color: #4b5563;
+    font-size: 1rem;
+    line-height: 1.25;
+}
+
+.personal-note__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem 1.25rem;
+    margin-bottom: 0.85rem;
+    color: #1f2937;
+    font-size: 1rem;
+}
+
+.personal-note__tags span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.42rem;
+}
+
+.personal-note__tags i {
+    color: #2563eb;
+    font-size: 1.05rem;
+}
+
+.personal-note p {
+    margin-bottom: 0;
+}
+
 .inline-accent {
     color: #2f78b7;
     font-weight: 600;
