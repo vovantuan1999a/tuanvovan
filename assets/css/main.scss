@@ -343,8 +343,8 @@ $scroll_offset : 2em;
 }
 
 .personal-note {
-    margin: 1.35rem 0 1.75rem;
-    padding: 1rem 1.15rem;
+    margin: 1.2rem 0 1.75rem;
+    padding: 1.05rem 1.2rem;
     border: 1px solid #e5e7eb;
     border-radius: 12px;
     background: #f8fafc;
@@ -352,9 +352,10 @@ $scroll_offset : 2em;
 }
 
 .personal-note h3 {
-    margin: 0 0 0.85rem;
+    margin: 0 0 0.9rem;
     color: #4b5563;
-    font-size: 1rem;
+    font-size: 1.05rem;
+    font-weight: 700;
     line-height: 1.25;
 }
 
@@ -380,6 +381,7 @@ $scroll_offset : 2em;
 
 .personal-note p {
     margin-bottom: 0;
+    color: #374151;
 }
 
 .inline-accent {
