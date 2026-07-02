@@ -396,7 +396,11 @@ $scroll_offset : 2em;
     font-family: Georgia, "Times New Roman", serif;
     text-align: center;
     color: #374151;
-    padding-top: 0.35rem;
+    padding: 1.25rem 1.15rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    background: #fff;
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
 }
 
 .author-card__avatar img {
@@ -433,7 +437,7 @@ $scroll_offset : 2em;
     justify-content: center;
     align-items: center;
     gap: 1.15rem;
-    margin-bottom: 1.4rem;
+    margin-bottom: 0;
 }
 
 .author-card__links a {
@@ -446,6 +450,51 @@ $scroll_offset : 2em;
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1;
+}
+
+.author-card__x {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.author-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    margin-top: 1.15rem;
+    padding-top: 1.15rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: left;
+}
+
+.author-nav__link {
+    display: flex;
+    align-items: center;
+    gap: 0.72rem;
+    padding: 0.62rem 0.78rem;
+    border-radius: 10px;
+    color: #4b5563;
+    font-size: 0.98rem;
+    font-weight: 700;
+    line-height: 1.15;
+    text-decoration: none;
+    transition: background 160ms ease, color 160ms ease;
+}
+
+.author-nav__link i {
+    flex: 0 0 1.25rem;
+    color: currentColor;
+    font-size: 1.02rem;
+    text-align: center;
+}
+
+.author-nav__link:hover,
+.author-nav__link--active {
+    background: #edf4ff;
+    color: #2563eb;
+    text-decoration: none;
 }
 
 .showcase-list {
