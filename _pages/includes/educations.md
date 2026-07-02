@@ -16,7 +16,7 @@
     <div class="showcase-media showcase-media--logo">
       <img src="{{ '/images/uit.png' | relative_url }}" alt="UIT logo">
     </div>
-    <div class="showcase-content">Vietnam National University Ho Chi Minh City, 
+    <div class="showcase-title">Vietnam National University Ho Chi Minh City, 
       <div class="showcase-title">University of Information Technology</div>
       <div class="showcase-subtitle">B.Sc. in Computer Science, Talented Honors Program</div>
       <div class="showcase-meta">Aug. 2017 - Jun. 2021 ·</div>
