@@ -48,7 +48,7 @@
 </p>
 
 <div class="personal-note">
-  <h3>Personal Note</h3>
+  <h3>My Journey</h3>
   <div class="personal-note__tags" aria-label="personal background">
     <span><i class="fas fa-graduation-cap" aria-hidden="true"></i> First-Generation Journey</span>
   </div>
