@@ -1,5 +1,11 @@
 {% if page.analytics != false %}
 
+{% if site.plausible_analytics_domain %}
+<!-- Plausible Analytics -->
+<script defer data-domain="{{ site.plausible_analytics_domain }}" src="{{ site.plausible_analytics_script | default: 'https://plausible.io/js/script.js' }}"></script>
+{% endif %}
+
+{% if site.google_analytics_id %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
 <script>
@@ -9,5 +15,6 @@
 
   gtag('config', "{{ site.google_analytics_id }}");
 </script>
+{% endif %}
 
 {% endif %}

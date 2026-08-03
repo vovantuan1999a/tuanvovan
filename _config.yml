@@ -16,6 +16,10 @@ google_scholar_stats_use_cdn : true
 # google analytics
 # google_analytics_id      : G-C7P0284TXJ
 
+# Plausible Analytics
+plausible_analytics_domain : "vovantuan1999a.github.io"
+plausible_analytics_script : "https://plausible.io/js/script.js"
+
 # # SEO Related
 # google_site_verification : fYAwLUuUsKolN3vx-rrjNluoONq12zTwjQSlsZn4dKc
 # bing_site_verification   : EEA2212181AC587AE155012D38842DB4
