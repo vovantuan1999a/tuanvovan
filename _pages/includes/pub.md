@@ -143,3 +143,20 @@
     </div>
   </div>
 </div>
+
+<h3 class="publication-group-title">Patents</h3>
+
+<div class="showcase-list">
+  <div class="showcase-item showcase-item--paper">
+    <div class="showcase-media showcase-media--paper showcase-media--contain">
+      <div class="showcase-badge">Patent</div>
+      <img src="{{ '/images/SUTD.png' | relative_url }}" alt="SUTD logo">
+    </div>
+    <div class="showcase-content">
+      <div class="showcase-title">Machine Learning Model for Plastic Type Classification</div>
+      <div class="showcase-subtitle">Somayya Ebrahimkhani, Ngai-Man Cheung, BingSheng Jonathan Zheng, Chun Yong Andrew Ngo, Le Hoang Anh, <strong>Tuan Van Vo</strong>, U-Xuan Tan.</div>
+      <div class="showcase-meta"><span class="news-venue">WO2026071978A1</span> (PCT application, pending), A*STAR &amp; SUTD, published Apr. 2026.</div>
+      <div class="showcase-links"><a href="https://patents.google.com/patent/WO2026071978A1/en"><i class="fas fa-file-alt" aria-hidden="true"></i> Patent</a></div>
+    </div>
+  </div>
+</div>

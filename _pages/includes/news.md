@@ -3,6 +3,11 @@
 <div class="news-list">
   <div class="news-item">
     <div class="news-date">Apr, 2026</div>
+    <div class="news-text">One patent application published: <a href="https://patents.google.com/patent/WO2026071978A1/en">Machine Learning Model for Plastic Type Classification</a> (<span class="news-venue">WO2026071978A1</span>), joint with A*STAR and SUTD.</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Apr, 2026</div>
     <div class="news-text">One paper accepted to <span class="news-venue">CVPR 2026 Workshop on Multimodal Foundation Models</span>: <a href="https://arxiv.org/abs/2604.10039">Counting to Four is still a Chore for VLMs</a>.</div>
   </div>
 
